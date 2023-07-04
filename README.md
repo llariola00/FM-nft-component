@@ -1,42 +1,40 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
--   [Overview](#overview)
-    -   [Screenshot](#screenshot)
-    -   [Links](#links)
-    -   [Built with](#built-with)
-    -   [What I learned](#what-i-learned)
--   [Author](#author)
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
 ## Overview
 
 ### Screenshot
 
-![](.//images/ss_qr.png)
+![](./images/ss_nft.png)
 
 ### Links
 
--   Solution URL: [Frontend Master](https://www.frontendmentor.io/solutions/qr-component-using-bootstrap-63xK-oQrvI)
--   Live Site URL: [Pages](https://llariola00.github.io/FM-qr-component/)
-
-## My process
+- Solution URL: [Frontend Master]()
+- Live Site URL: [Pages]()
 
 ### Built with
 
--   Semantic HTML5 markup
--   CSS custom properties
--   CSS flexbox
--   [Bootstrap](https://getbootstrap.com/) - Bootstrap 5.3.0
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS flexbox
+- [Bootstrap](https://getbootstrap.com/) - Bootstrap 5.3.0
 
 ### What I learned
 
-This is my 2nd Frontend Mentor challenge. I finished this one in 1h 30min., quite fast compared to my 1st challenge which took me 8h. Well, to be fair, this one was easier than the first one, as it's supposed to be the first challenge which is a newbie should solve.
+- This is my 3rd Frontend Mentor challenge. This one took me around 2H to complete. The hover icon overly effect was a bit tricky to get right. I was able to get the background color on hover effect easily, but the centering the icon was hard. `position: absolute;`, `top/bottom/left/right` and 'transform' CSS properties weren't working for me.
 
-While I did finish this one faster, I did not learn a lot of new things compared to my 1st challenge, so there's that. I did however, learn quite a bit more about Bootstrap, like how to use margins and padding more effectively. Also, fixed-bottom class is better for the attribution text.
+- I was able to center it using `d-flex;`, `justify-content-center;` and 'align-items-center' classes of bootstrap, and applying it to the parent container of the icon. I felt stupid for not thinking of using them in the first place.
 
 ## Author
 
--   Frontend Mentor - [@llariola00](https://www.frontendmentor.io/profile/llariola00)
+- Frontend Mentor - [@llariola00](https://www.frontendmentor.io/profile/llariola00)
