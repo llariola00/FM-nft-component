@@ -19,8 +19,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Frontend Master]()
-- Live Site URL: [Pages]()
+- Solution URL: [Frontend Master](https://www.frontendmentor.io/solutions/nft-preview-card-using-bootstrap-bgeuNE-vXW)
+- Live Site URL: [Pages](https://llariola00.github.io/FM-nft-component/)
 
 ### Built with
 
